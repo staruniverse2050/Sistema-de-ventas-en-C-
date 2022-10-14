@@ -1,0 +1,13 @@
+C:\Users\mrest\OneDrive\Escritorio\Ventas Rigo\Lib_Producto\bin\Debug\Lib_Producto.dll
+C:\Users\mrest\OneDrive\Escritorio\Ventas Rigo\Lib_Producto\bin\Debug\Lib_Producto.pdb
+C:\Users\mrest\OneDrive\Escritorio\Ventas Rigo\Lib_Producto\bin\Debug\LibConexionBD.dll
+C:\Users\mrest\OneDrive\Escritorio\Ventas Rigo\Lib_Producto\bin\Debug\LibLlenarGrid.dll
+C:\Users\mrest\OneDrive\Escritorio\Ventas Rigo\Lib_Producto\bin\Debug\LibConexionBD.pdb
+C:\Users\mrest\OneDrive\Escritorio\Ventas Rigo\Lib_Producto\bin\Debug\LibLlenarGrid.pdb
+C:\Users\mrest\OneDrive\Escritorio\Ventas Rigo\Lib_Producto\obj\Debug\Lib_Producto.csproj.AssemblyReference.cache
+C:\Users\mrest\OneDrive\Escritorio\Ventas Rigo\Lib_Producto\obj\Debug\Lib_Producto.csproj.CoreCompileInputs.cache
+C:\Users\mrest\OneDrive\Escritorio\Ventas Rigo\Lib_Producto\obj\Debug\Lib_Producto.csproj.CopyComplete
+C:\Users\mrest\OneDrive\Escritorio\Ventas Rigo\Lib_Producto\obj\Debug\Lib_Producto.dll
+C:\Users\mrest\OneDrive\Escritorio\Ventas Rigo\Lib_Producto\obj\Debug\Lib_Producto.pdb
+C:\Users\mrest\OneDrive\Escritorio\Ventas Rigo\Lib_Producto\bin\Debug\LibParametro.dll
+C:\Users\mrest\OneDrive\Escritorio\Ventas Rigo\Lib_Producto\bin\Debug\LibParametro.pdb

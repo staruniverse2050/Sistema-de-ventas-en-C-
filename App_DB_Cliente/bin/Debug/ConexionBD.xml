@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Conexion>
+  <Servidor>HOLI\SQLEXPRESS</Servidor>
+  <BaseDatos>DB_Sistema_de_ventas_Rigo</BaseDatos>
+  <Usuario></Usuario>
+  <Password></Password>
+</Conexion>
